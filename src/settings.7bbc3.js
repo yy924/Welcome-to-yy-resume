@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/01_shouye/home.fire",orientation:"",jsList:["assets/public/js/data/data.f978c.js"],bundleVers:{internal:"1b082",main:"f7611"}};
